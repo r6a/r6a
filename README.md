@@ -5,9 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-@amsterdamjames1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/amsterdamjames1/)](https://instagram.com/_jessicaalim)
 [![Gmail Badge](https://img.shields.io/badge/-amsterdamjames1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amsterdamjames1@gmail.com)](mailto:amsterdamjames1@gmail.com)
 
-<p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. Thanks for stopping by—let's connect! </p>
-
 ## About me
+<p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. Thanks for stopping by—let's connect! </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
