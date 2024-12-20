@@ -1,4 +1,7 @@
-<h2 align="centre"> Hi there, I'm James! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"></h2>
+<h2 align="center"> Hi there, I'm James! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"></h2>
+<h3 align="center">Technical Recruiter | Junior Software Developer</h3>
+
+
 
 
 [![Linkedin: sourcingjames](https://img.shields.io/badge/-sourcingjames-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourcingjames/)](https://www.linkedin.com/in/thaianebraga/)
@@ -9,7 +12,7 @@
 
 ```javascript
 const james = {
-  pronouns: "he/him",
+  pronouns: "he | him",
   backend: ["Ruby", "Rails", "SQL"],
   frontend: ["JavaScript", "VueJS", "HTML", "CSS", "SASS"],
   tools: ["Heroku", "Cloudinary", "Mapbox", "Figma"],
