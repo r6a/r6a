@@ -54,3 +54,4 @@ const james = {
   hobbies: ["sport", "flying airplanes", "travel"]
 };
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r6a&show_icons=true&locale=en&layout=compact" alt="r6a" /></p>
