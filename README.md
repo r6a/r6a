@@ -1,7 +1,5 @@
-<h2 align="center"> Hi there, I'm James! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"></h2>
-<h3 align="center">Technical Recruiter | Junior Software Developer</h3>
-
-
+<h2> Hi there, I'm James! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand"></h2>
+<p> My name is James Robertson and I'm an experienced Technical Recruiter. I'm from the UK, living in Amsterdam, after recently studying full-stack development at Le Wagon, i'm eager to learn more and develop my skills. </p>
 
 
 [![Linkedin: sourcingjames](https://img.shields.io/badge/-sourcingjames-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourcingjames/)](https://www.linkedin.com/in/thaianebraga/)
@@ -12,7 +10,7 @@
 
 ```javascript
 const james = {
-  pronouns: "he | him",
+  pronouns: "he/him",
   backend: ["Ruby", "Rails", "SQL"],
   frontend: ["JavaScript", "VueJS", "HTML", "CSS", "SASS"],
   tools: ["Heroku", "Cloudinary", "Mapbox", "Figma"],
