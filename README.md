@@ -7,6 +7,8 @@
 ## About me
 <p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. Thanks for stopping by - let's connect! </p>
 
+🔭 My current focus is building a portfolio to showcase my skills
+
 🌱 I’m currently learning React
 
 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects with JavaScript and React
@@ -16,6 +18,7 @@
 📫 How to reach me amsterdamjames1@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
 
  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
