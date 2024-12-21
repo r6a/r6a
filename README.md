@@ -5,7 +5,8 @@
 [![GitHub r6a](https://img.shields.io/github/followers/r6a?label=follow&style=social)](https://github.com/r6a)
 
 ## About me
-<p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. Thanks for stopping by - let's connect! </p>
+<p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. 
+Thanks for stopping by - let's connect! </p>
 
 🔭 Focussed on building a portfolio to sharpen my skills
 
