@@ -7,7 +7,7 @@
 ## About me
 <p> Welcome to my profile! I'm James, a Technical Recruiter turned part-time coder and full-time learner. Previously helped scale teams @Booking.com and @Uber, and recently completed a full-stack bootcamp @Le Wagon. Thanks for stopping by - let's connect! </p>
 
-🔭 My current focus is building a portfolio to showcase my skills
+🔭 Passionate about bringing ideas to life
 
 🌱 I’m currently learning React
 
@@ -56,3 +56,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r6a&show_icons=true&locale=en&layout=compact" alt="r6a" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r6a&show_icons=true&locale=en" alt="r6a" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r6a&label=Profile%20views&color=0e75b6&style=flat" alt="r6a" /> </p>
