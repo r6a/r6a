@@ -10,7 +10,7 @@ Thanks for stopping by - let's connect! </p>
 
 🔭 Focussed on building a portfolio to sharpen my skills
 
-🌱 I’m currently learning React
+🌱 I’m currently learning Ruby and React
 
 👩🏿‍🤝‍👩🏻 I’m looking to collaborate on projects with JavaScript and React
 
